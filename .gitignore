@@ -1,0 +1,10 @@
+voice-api
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+.env
+.idea/
